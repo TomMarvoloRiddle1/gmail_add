@@ -20,6 +20,7 @@ optional - (if you have existing accounts in format username@email.com:password)
 12) open ~/gmail_add/sample.txt
 13) paste your existing accounts in format username@email.com:password
 
-entry (once first time setup complete run the commands in terminal below)
+---AFTER FIRST TIME SETUP--
 cd ~/gmail.add
 make add
+> enter name of new email
